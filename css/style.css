@@ -1,0 +1,25 @@
+body{ padding: o; 
+margin: 0;background-color: #6F1E51
+ }
+.container{width: 80px; margin: auto;
+}
+.Flag{margin-top: 150px;
+}
+.green{ width: 40%; 
+	margin: auto; 
+	background-color: green;
+	height: 300px;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+.red{ width: 200px;
+	height: 200px;
+	background-color: red;
+	border-radius: 50%;
+	position: relative;
+	left: 50%;
+	transform: translate(-70%, 26%);}
+
+h1{background-color: green; color: red;
+text-align: center;}
